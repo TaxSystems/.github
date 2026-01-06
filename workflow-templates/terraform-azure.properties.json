@@ -1,0 +1,6 @@
+{
+  "name": "Terraform Azure Backend",
+  "description": "Terraform with Azure Storage Account backend and OIDC authentication.",
+  "iconName": "terraform",
+  "categories": ["terraform", "azure"]
+}

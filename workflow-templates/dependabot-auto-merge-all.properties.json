@@ -1,0 +1,6 @@
+{
+  "name": "Dependabot Auto-Merge All",
+  "description": "Automatically merge all passing Dependabot PRs including major updates.",
+  "iconName": "dependabot",
+  "categories": ["automation", "dependencies"]
+}

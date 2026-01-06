@@ -1,0 +1,6 @@
+{
+  "name": ".NET Web App",
+  "description": "Build, test, and publish a .NET web application (API, site, or function app).",
+  "iconName": "dotnet",
+  "categories": ["dotnet", "azure"]
+}

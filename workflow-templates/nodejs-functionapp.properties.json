@@ -1,0 +1,6 @@
+{
+  "name": "Node.js Function App",
+  "description": "Build, test, and publish a Node.js Azure Function App.",
+  "iconName": "node",
+  "categories": ["node", "azure"]
+}

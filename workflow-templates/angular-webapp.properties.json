@@ -1,0 +1,6 @@
+{
+  "name": "Angular Web App",
+  "description": "Build, test, and publish an Angular web application.",
+  "iconName": "node",
+  "categories": ["node", "angular"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Terraform Remote Backend",
+  "description": "Terraform with Terraform Cloud/Enterprise remote backend.",
+  "iconName": "terraform",
+  "categories": ["terraform"]
+}

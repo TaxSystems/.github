@@ -1,0 +1,6 @@
+{
+  "name": ".NET NuGet Package",
+  "description": "Build, test, and pack a .NET NuGet package.",
+  "iconName": "dotnet",
+  "categories": ["dotnet", "nuget"]
+}

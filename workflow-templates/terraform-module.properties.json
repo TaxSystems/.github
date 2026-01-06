@@ -1,0 +1,6 @@
+{
+  "name": "Terraform Module",
+  "description": "Validate and test a Terraform module with no backend.",
+  "iconName": "terraform",
+  "categories": ["terraform"]
+}

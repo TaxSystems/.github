@@ -1,0 +1,6 @@
+{
+  "name": "NPM Package",
+  "description": "Build, test, and pack an NPM package.",
+  "iconName": "npm",
+  "categories": ["npm", "node"]
+}
