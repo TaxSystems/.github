@@ -11,3 +11,4 @@ permissions:
 jobs:
   auto-merge:
     uses: TaxSystems/shared-workflows/.github/workflows/dependabot-auto-merge.yml@master
+    secrets: inherit
