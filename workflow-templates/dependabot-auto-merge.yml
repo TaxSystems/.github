@@ -4,10 +4,12 @@ on:
   pull_request_target:
     types: [opened, synchronize, reopened]
 
-permissions:
-  contents: write
-  pull-requests: write
+permissions: {}
 
 jobs:
   auto-merge:
+    permissions:
+      contents: write
+      pull-requests: write
     uses: TaxSystems/shared-workflows/.github/workflows/dependabot-auto-merge.yml@master
+    secrets: inherit
